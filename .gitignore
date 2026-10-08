@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Local CPS microdata: do not upload raw person records.
+/data/raw/*
+!/data/raw/.gitkeep
